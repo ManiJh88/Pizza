@@ -1,0 +1,19 @@
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmDeliveryBoyRating.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmMain.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmNewOrder.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmOrderList.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmPizzaRating.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\PizzaDeliveryManager.csproj.GenerateResource.cache
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\PizzaDeliveryManager.csproj.CoreCompileInputs.cache
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\PizzaDeliveryManager.csprojAssemblyReference.cache
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\PizzaDeliveryManager.Bll.dll
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\PizzaDeliveryManager.Model.dll
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\PizzaDeliveryManager.Bll.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\PizzaDeliveryManager.Model.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\PizzaDeliveryManager.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\bin\Debug\PizzaDeliveryManager.Bll.dll
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\bin\Debug\PizzaDeliveryManager.Bll.pdb
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\bin\Debug\PizzaDeliveryManager.Model.dll
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\bin\Debug\PizzaDeliveryManager.Model.pdb
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\obj\Debug\PizzaDeliveryManager.Bll.csprojAssemblyReference.cache
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\obj\Debug\PizzaDeliveryManager.Bll.csproj.CoreCompileInputs.cache
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\obj\Debug\PizzaDeliveryManager.Bll.csproj.CopyComplete
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\obj\Debug\PizzaDeliveryManager.Bll.dll
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Bll\obj\Debug\PizzaDeliveryManager.Bll.pdb

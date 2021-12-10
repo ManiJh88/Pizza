@@ -1,0 +1,6 @@
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\bin\Debug\PizzaDeliveryManager.Model.dll
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\bin\Debug\PizzaDeliveryManager.Model.pdb
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\obj\Debug\PizzaDeliveryManager.Model.csproj.CoreCompileInputs.cache
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\obj\Debug\PizzaDeliveryManager.Model.dll
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\obj\Debug\PizzaDeliveryManager.Model.pdb
+F:\Personal\Pizza-Delivery-Manager-main\PizzaDeliveryManager.Model\obj\Debug\PizzaDeliveryManager.Model.csprojAssemblyReference.cache
