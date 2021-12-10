@@ -1,0 +1,69 @@
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csprojAssemblyReference.cache
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.MainForm.resources
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.NewOrderForm.resources
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.OrderListForm.resources
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.DeliveryBoyRatingForm.resources
+C:\Users\grtha\source\repos\Pizza Delivery Manager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.PizzaRatingForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csprojAssemblyReference.cache
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.DeliveryBoyRatingForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.MainForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.NewOrderForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.OrderListForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.PizzaRatingForm.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+C:\Users\Dogukan\Desktop\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csprojAssemblyReference.cache
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.DeliveryBoyRatingForm.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.MainForm.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.NewOrderForm.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.OrderListForm.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.PizzaRatingForm.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csprojAssemblyReference.cache
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.DeliveryBoyRatingForm.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.MainForm.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.NewOrderForm.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.OrderListForm.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.PizzaRatingForm.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+D:\Personal\下载\Pizza-Delivery-Manager-main\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmMain.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmNewOrder.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmDeliveryBoyRating.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmOrderList.resources
+F:\Personal\Pizza-Delivery-Manager-main\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.FrmPizzaRating.resources
